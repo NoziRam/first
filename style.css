@@ -6,3 +6,8 @@ ul{
     list-style-type: none;
     display: flex;
 }
+
+h1{
+    background-color: black;
+    color: #fff;
+}
